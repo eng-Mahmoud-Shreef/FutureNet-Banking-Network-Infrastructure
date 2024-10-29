@@ -1,0 +1,1 @@
+Placeholder for Protocol Details. This document will contain information on key protocols used within the network, such as HSRP for redundancy, EtherChannel for link aggregation, and VPN for secure communication.
