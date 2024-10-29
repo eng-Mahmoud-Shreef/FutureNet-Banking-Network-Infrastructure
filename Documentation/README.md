@@ -1,0 +1,1 @@
+This folder contains comprehensive project documentation, including network architecture designs, configuration protocols, topology diagrams, and technical specifications to support FutureNet's secure and scalable infrastructure.
