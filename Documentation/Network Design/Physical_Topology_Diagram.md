@@ -1,1 +1,0 @@
-Placeholder for the Physical Topology Diagram. This document will provide a visual representation of the physical layout of network devices, including routers, switches, firewalls, and inter-branch connections.
