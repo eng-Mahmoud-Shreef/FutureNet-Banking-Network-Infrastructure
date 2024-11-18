@@ -53,3 +53,4 @@ This network infrastructure meets the bank’s operational needs while maintaini
 For questions or collaboration inquiries, feel free to reach out:
 - **LinkedIn**: https://www.linkedin.com/in/mahmoud-shreef/
 - **Email**: eng.mahmoudshreef@outlook.com
+- **Phone**: +201007656245
