@@ -33,7 +33,7 @@ The FutureNet infrastructure requires precise setup and configuration to ensure 
 4. **VPN Setup**: Establish secure VPN connections between HQ and branch locations for secure inter-site communication.
 5. **Monitoring and Logging**: Configure Syslog and SNMP for centralized logging and monitoring.
 
-For detailed instructions, refer to the [Documentation/Technical Specifications](link-to-folder) folder, which includes configuration files and step-by-step guides.
+For detailed instructions, refer to the [Documentation/Configurations](link-to-folder) folder, which includes configuration files and step-by-step guides.
 
 ---
 
